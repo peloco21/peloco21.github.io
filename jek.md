@@ -3,7 +3,7 @@
 
 ---
 
-# {{site.title}}
+# {{site.name}}
 
 - uno
 - dos
