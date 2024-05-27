@@ -13,7 +13,9 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Members"
-    url: /members/
+    url: /members.html
+  - title: "Titulo"
+    url: /titulos.html
   - title: "kiko"
     url: /kiko/
   - title: "External Link"
