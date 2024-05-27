@@ -1,5 +1,8 @@
 ---
-
+layout: mio
+title: titulo de post
+author: chicho
+variable1: todo
 
 ---
 
