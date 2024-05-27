@@ -1,5 +1,5 @@
 ---
-layout: mio
+layout: default
 title: titulo de post
 author: chicho
 variable1: todo
