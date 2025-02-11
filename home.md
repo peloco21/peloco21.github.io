@@ -1,6 +1,7 @@
 ---
 title: home
 permalink: /
+layout: posts
 ---
 
 ## Welcome to {{site.title}} {{page.title}} 

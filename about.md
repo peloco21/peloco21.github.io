@@ -11,7 +11,7 @@ tags: juegos,mierda
 
 # TITULO
 
-Contenido del about
+Contenido del about {{page.date}}
 
 hola danielo
 
