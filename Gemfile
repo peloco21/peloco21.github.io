@@ -1,11 +1,14 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem 'jekyll', '~> 3.9.3'
-gem 'jekyll-paginate' # for pagination
-gem 'github-pages', group: :jekyll_plugins # for github pages
-# gem 'minima',  github: "jekyll/minima" # for github pages
-gem "webrick", "~> 1.8"
-gem "jekyll-include-cache"
-gem "jekyll-remote-theme"
-gem "jekyll-podcaster"
-# gem "minimal-mistakes-jekyll"
+source "https://rubygems.org"
+gemspec
+
+gem 'jekyll'
+
+gem 'wdm', '>= 0.1.0'
+
+gem 'jekyll-paginate'
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
