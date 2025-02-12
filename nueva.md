@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /categories
+
 title: Categories
 category: sex,uncensored, boondys, costras
 lamine: yamal
