@@ -12,7 +12,7 @@ lamine: yamal
   {% for alumno in site.data.alumnos %}
     {% if alumno.edad > 18 %}
     <li>
-      {{ alumno.nombre }} {{ alumno.apellido }}</a>
+      {{ alumno.nombre  | upcase }} {{ alumno.apellido }}</a>
     </li>
     {% endif %}
   {% endfor %}

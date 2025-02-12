@@ -5,6 +5,7 @@ pages:
   - {name: 'clientes', link: 'menu.html'}
   - {name: 'Shop', link: '#'}
   - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
+  - {name: 'nueva', link: 'nueva.html'}
  
 
 social:
