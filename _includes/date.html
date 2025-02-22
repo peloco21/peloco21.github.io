@@ -2,17 +2,17 @@
 {% assign m = include.date | date: "%-m" %}
 {{ include.date | date: "%-d" }}
 {% case m %}
-  {% when '1' %}Gennaio
-  {% when '2' %}Febbraio
+  {% when '1' %}Enero
+  {% when '2' %}Febrero
   {% when '3' %}Marzo
-  {% when '4' %}Aprile
-  {% when '5' %}Maggio
-  {% when '6' %}Giugno
-  {% when '7' %}Luglio
+  {% when '4' %}Abril
+  {% when '5' %}Mayo
+  {% when '6' %}Junio
+  {% when '7' %}Julio
   {% when '8' %}Agosto
-  {% when '9' %}Settembre
-  {% when '10' %}Ottobre
-  {% when '11' %}Novembre
-  {% when '12' %}Dicembre
+  {% when '9' %}Septiembre
+  {% when '10' %}Octubre
+  {% when '11' %}Noviembre
+  {% when '12' %}Diciembre
 {% endcase %}
 {{ include.date | date: "%Y" }}
