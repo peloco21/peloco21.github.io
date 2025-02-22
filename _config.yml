@@ -1,54 +1,24 @@
-# Site settings
-title: "MI PUTA WEB"
-description: "A Jekyll Theme designed for Podcasters"
-podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-url: "https://peloco21.github.io" # Actual base url of the website
-baseurl: ""                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+title: "MI NUEVA WEB"
+description: "Un sitio personalizado con Jekyll"
+url: "https://peloco21.github.io"
+baseurl: ""
 
-permalink: pretty
-permalink: /:title
-keywords: [podcast, jekyll]
+# Redes Sociales
+social_links:
+  twitter: "https://twitter.com/tu_usuario"
+  github: "https://github.com/peloco21"
+  linkedin: "https://www.linkedin.com/in/tu_usuario"
 
-#Plugins
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+# SEO
+seo:
+  title: "MI NUEVA WEB"
+  description: "Explora contenido único y episodios destacados"
+  author: "peloco21"
 
-#exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
+# Paginación
+paginate: 6
 
-#Pagination
-paginate: 5
-paginate_path: "/page-:num/"
-
-#Sass
-sass:
-  style: compressed
-  sourcemap: never
-
-#SEO
-twitter:
-  username: PandaSekh
-  card: summary
-facebook:
-  app_id: 
-logo: /assets/img/Podcast_Cover.png
-social:
-  name: Alessio Franceschi
-  links:
-    - https://github.com/PandaSekh
-    - https://twitter.com/PandaSekh
-    - https://www.linkedin.com/in/alessio-franceschi/
-lang: it
-
-#Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
-podcast_title: Jekyll Podcaster
-podcast_author: Alessio Franceschi
-podcast_email: alessiofranceschi2@gmail.com
-podcast_subtitle: "A Jekyll Theme designed for Podcasters"
-podcast_summary: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-podcast_description: "A Jekyll Theme designed for Podcasters. This is your podcast's description."
-podcast_explicit: "no"
-podcast_type: serial 
-podcast_lang: en
-podcast_launch: "2019-07-20" #Launch date of your podcast
-podcast_copyright: "&#xA9;Alessio Franceschi"
-podcast_feed: 
-podcast_artwork: "/assets/img/Podcast_Cover.png"
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate

@@ -2,3 +2,27 @@
 layout: home
 title: Jekyll Podcaster
 ---
+
+<!-- Nueva portada llamativa -->
+<header class="hero">
+  <h1>Bienvenido a MI NUEVA WEB</h1>
+  <p>Descubre los mejores episodios y contenido personalizado.</p>
+</header>
+
+<!-- Sección de episodios destacados -->
+<section class="episodes">
+  <h2>Episodios Destacados</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<!-- Footer personalizado -->
+<footer class="footer">
+  <p>© 2025 Mi Nueva Web. Todos los derechos reservados.</p>
+</footer>
