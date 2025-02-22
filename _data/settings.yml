@@ -1,7 +1,7 @@
 analytics-id: 
 #Pages
 pages:
-  - {name: 'menuxxx', link: 'episodes.html'}
+  - {name: 'Enlace', link: 'episodes.html'}
   - {name: 'clientes', link: 'menu.html'}
   - {name: 'Shop', link: '#'}
   - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
