@@ -8,10 +8,10 @@ pages:
  
 
 social:
-  - {icon: 'instagram', type: "brand", link: '#'}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/david_gl_212/'}
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
   - {icon: 'facebook', type: "brand", link: '#'}
-  - {icon: 'youtube', type: "brand", link: '#'}  
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/@peloco2121'}  
   - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
   - {icon: 'rss', type: "solid", link: "#"}
 
