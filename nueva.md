@@ -8,7 +8,7 @@ lamine: coches
 <ul>
   {% for coche in site.data.coches %}
     <li>
-      {{ coche.marca }} {{ coche.modelo }} - {{ coche.tipo }} (Año: {{ coche.año }})
+      {{ coche.marca }} {{ coche.modelo }} - {{ coche.tipo }}
     </li>
   {% endfor %}
 </ul>

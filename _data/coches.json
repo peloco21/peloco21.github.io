@@ -2,19 +2,16 @@
     {
         "marca": "Toyota",
         "modelo": "Corolla",
-        "año": 2021,
         "tipo": "Sedán"
     },
     {
         "marca": "Ford",
         "modelo": "Mustang",
-        "año": 2022,
         "tipo": "Deportivo"
     },
     {
         "marca": "Tesla",
         "modelo": "Model S",
-        "año": 2023,
         "tipo": "Eléctrico"
     }
 ]
