@@ -3,7 +3,7 @@ analytics-id:
 pages:
   - {name: 'Enlace', link: 'episodes.html'}
   - {name: 'clientes', link: 'menu.html'}
-  - {name: 'Shop', link: '#'}
+  - {name: 'Tienda Coches', link: 'https://www.clicars.com/'}
   - {name: 'MiGitHub', link: 'https://github.com/peloco21'}
   - {name: 'nueva', link: 'nueva.html'}
  

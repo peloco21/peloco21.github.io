@@ -4,7 +4,7 @@ title: Episodes
 ---
 <div class = "episodes">
 
-<h2> Episodes </h2>
+<h2> Episodios </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "main" %}
@@ -16,7 +16,7 @@ title: Episodes
 {% endfor %}
 </ul>
 
-<h2> Extra Episodes </h2>
+<h2> Episodios Extra </h2>
 <ul>
 {% for post in site.posts %}    
     {% if post.type == "extra" %}
