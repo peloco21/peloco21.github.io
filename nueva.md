@@ -1,19 +1,14 @@
 ---
 layout: page
-
-title: Categories
-category: sex,uncensored, boondys, costras
-lamine: yamal
-
-
+title: Modelos de Coches
+category: deportivos, eléctricos, sedán
+lamine: coches
 ---
 
 <ul>
-  {% for alumno in site.data.alumnos %}
-    {% if alumno.edad > 18 %}
+  {% for coche in site.data.coches %}
     <li>
-      {{ alumno.nombre  | upcase }} {{ alumno.apellido }}</a>
+      {{ coche.marca }} {{ coche.modelo }} - {{ coche.tipo }} (Año: {{ coche.año }})
     </li>
-    {% endif %}
   {% endfor %}
 </ul>
