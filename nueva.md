@@ -2,7 +2,7 @@
 layout: page
 title: Modelos de Coches
 category: deportivos, eléctricos, sedán
-lamine: coches
+coches: coches
 ---
 
 <ul>
