@@ -4,7 +4,7 @@ pages:
   - {name: 'Enlace', link: 'episodes.html'}
   - {name: 'clientes', link: 'menu.html'}
   - {name: 'Shop', link: '#'}
-  - {name: 'GitHub', link: 'https://github.com/PandaSekh'}
+  - {name: 'GitHub', link: 'https://github.com/peloco21'}
   - {name: 'nueva', link: 'nueva.html'}
  
 
