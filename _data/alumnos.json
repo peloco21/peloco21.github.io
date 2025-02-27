@@ -1,11 +1,6 @@
 [
-    {
-        "nombre": "Pablo"
-    },
-    {
-        "nombre": "Maria"
-    },
-    {
-        "nombre": "Juan"
-    }
-]
+    {"nombre": "Juan", "apellido": "Pérez"},
+    {"nombre": "Ana", "apellido": "García"},
+    {"nombre": "Carlos", "apellido": "López"}
+  ]
+  
