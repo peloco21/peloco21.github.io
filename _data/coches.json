@@ -1,0 +1,17 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "tipo": "Sedán"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "tipo": "Deportivo"
+    },
+    {
+        "marca": "Tesla",
+        "modelo": "Model S",
+        "tipo": "Eléctrico"
+    }
+]

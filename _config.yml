@@ -1,0 +1,24 @@
+title: "WEB HECHA POR DAVID GARCIA"
+description: "Mi sitio hecho por mi"
+url: "https://peloco21.github.io"
+baseurl: ""
+
+# Redes Sociales
+social_links:
+  twitter: "https://twitter.com/tu_usuario"
+  github: "https://github.com/peloco21"
+  linkedin: "https://www.linkedin.com/in/tu_usuario"
+
+# SEO
+seo:
+  title: "MI NUEVA WEB"
+  description: "Explora contenido único y episodios destacados"
+  author: "peloco21"
+
+# Paginación
+paginate: 6
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
