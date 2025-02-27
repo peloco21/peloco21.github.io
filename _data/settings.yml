@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 analytics-id: 
 #Pages
 pages:
@@ -34,4 +35,42 @@ shownotes: true
 
 #Disqus
 disqus:
+=======
+analytics-id: 
+#Pages
+pages:
+  - {name: 'Enlace', link: 'episodes.html'}
+  - {name: 'Tienda Coches', link: 'https://www.clicars.com/'}
+  - {name: 'MiGitHub', link: 'https://github.com/peloco21'}
+  - {name: 'Coches', link: 'nueva.html'}
+ 
+
+social:
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/david_gl_212/'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
+  - {icon: 'facebook', type: "brand", link: '#'}
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/@peloco2121'}  
+  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'rss', type: "solid", link: "#"}
+
+websites-podcast:
+  - {name: 'Apple Podcast', link: '#'}
+  - {name: 'Spotify', link: '#'}
+  - {name: 'YouTube', link: '#'}
+  - {name: 'Android', link: '#'}
+  - {name: 'Spreaker', link: '#'}
+  - {name: 'Google Podcast', link: '#'}
+  - {name: 'Anchor', link: '#'}
+  - {name: 'Castbox', link: '#'}
+  - {name: 'Overcast', link: '#'}
+  - {name: 'RadioPublic', link: '#'}
+  - {name: 'Breaker', link: '#'}  
+  - {name: 'RSS', link: '#'}
+
+translate-date: true #See _includes/date.html to translate the months' name
+shownotes: true
+
+#Disqus
+disqus:
+>>>>>>> b5142198b07d7d737d45e8b7abed64a9c1740334
   disqus_shortname: 
