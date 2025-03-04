@@ -5,7 +5,6 @@ pages:
   - {name: 'Enlace', link: 'episodes.html'}
   - {name: 'Tienda Coches', link: 'https://www.clicars.com/'}
   - {name: 'MiGitHub', link: 'https://github.com/peloco21'}
-  - {name: 'Coches', link: 'nueva.html'}
  
 
 social:
