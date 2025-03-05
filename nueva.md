@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> ab1a9a6 (Resuelto todo)
 ---
 layout: page
 title: Modelos de Coches
