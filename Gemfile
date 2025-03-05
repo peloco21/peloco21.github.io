@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 # frozen_string_literal: true
 
->>>>>>> ab1a9a6 (Resuelto todo)
 source "https://rubygems.org"
 gemspec
 
