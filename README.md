@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab1a9a6 (Resuelto todo)
 # [Jekyll Podcaster](https://jekyll-podcaster.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://jekyll-podcaster.netlify.app/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-Podcaster/issues)
@@ -135,4 +138,8 @@ Theme designed and created by [Alessio Franceschi](https://github.com/PandaSekh/
 ## License
 The theme is available as open source under the terms of the [MIT License](https://github.com/PandaSekh/Jekyll-YAMT/blob/master/LICENSE.txt).
 TL;DR
+<<<<<<< HEAD
 Use it for free but keep my name in the footer. Thanks!
+=======
+Use it for free but keep my name in the footer. Thanks!
+>>>>>>> ab1a9a6 (Resuelto todo)

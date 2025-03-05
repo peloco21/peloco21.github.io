@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.gem
 .bundle
 .jekyll-cache
@@ -8,15 +7,4 @@ Gemfile.lock
 _site/
 .sass-cache/
 .jekyll-cache/
-=======
-*.gem
-.bundle
-.jekyll-cache
-.sass-cache
-_site
-Gemfile.lock
-_site/
-.sass-cache/
-.jekyll-cache/
->>>>>>> b5142198b07d7d737d45e8b7abed64a9c1740334
 .jekyll-metadata
