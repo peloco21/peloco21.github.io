@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Examen
+title: Examen añadir
 ---
-# Página de Examen
+# pagina de añadir alumnos
 Pagina de añadir alumnos
