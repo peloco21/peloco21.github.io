@@ -3,7 +3,7 @@ layout: default
 title: Examen
 ---
 # Página de Examen
-Pagina de añadir alumnos
+Pagina de alumnos
 
 <ul>
 {% for alumno in site.data.alumnos %}
